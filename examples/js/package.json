@@ -2,7 +2,7 @@
   "type": "module",
   "dependencies": {
     "decimal.js": "^10.2.0",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "grpc-caller": "^0.13.0",
     "kafkajs": "^1.11.0"
   },
